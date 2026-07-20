@@ -1,12 +1,12 @@
 # Rainfall Prediction using Optimized Attention-CNN-LSTM
 
 This repository contains the official implementation of the paper:  
-**"Optimasi Model CRNN-Attention untuk Prediksi Curah Hujan Mikro-Skala Menggunakan Data Sensor Lokal"**
+**"Optimasi Model CNN-Attention untuk Prediksi Curah Hujan Mikro-Skala Menggunakan Data Sensor Lokal"**
 
 ## 📄 Paper
 - Authors: Sugeng, Yusrila Yeka Kerlooza, Aditya Jordan Alfaqih
-- Journal: [nama jurnal]
-- DOI: [doi jika sudah ada]
+- Journal: KOMPUTIKA
+- DOI: (https://doi.org/10.34010/komputika.v13i2.13949 )
 
 ## 🏗️ Model Architecture
 The proposed model combines:
@@ -34,6 +34,8 @@ The proposed model combines:
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/rainfall-prediction-attention-cnn-lstm.git
-cd rainfall-prediction-attention-cnn-lstm
+git clone https://github.com/MasSugenk/CRNN-LSTM_Rainfall_Prediction.git
+cd CRNN-LSTM_Rainfall_Prediction
 pip install -r requirements.txt
+
+## 🚀 Training
