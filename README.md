@@ -1,7 +1,8 @@
 # Rainfall Prediction using Optimized Attention-CNN-LSTM
 
 This repository contains the official implementation of the paper:  
-**"Optimasi Model CNN-Attention untuk Prediksi Curah Hujan Mikro-Skala Menggunakan Data Sensor Lokal"**
+**"Optimasi Model CNN-Attention untuk Prediksi Curah Hujan Mikro-Skala Menggunakan Data Sensor Lokal".**
+ Previously, this research began with the development of local sensors with calibrated sensor devices and components and the research was published in the accredited journal Sinta.
 
 ## 📄 Paper 1
 - Authors: Sugeng, Taufiq Nuzwir Nizar , Didit Andri Jatmiko, Rodi Hartono, Yusrila Yeka Kerlooza
